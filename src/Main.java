@@ -1,5 +1,9 @@
+import accidentes.Marca;
+
 public class Main {
     public static void main(String[] args) {
         //todo menu y las consultas
+
+
     }
 }
