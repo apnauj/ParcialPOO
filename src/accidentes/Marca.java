@@ -2,7 +2,7 @@ package accidentes;
 
 import java.util.ArrayList;
 
-public class Marca {
+public class Marca extends Carro {
     private long id;
     private String nombre;
     private String pais;
